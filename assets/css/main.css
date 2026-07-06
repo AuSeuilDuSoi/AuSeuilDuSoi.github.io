@@ -3219,18 +3219,3 @@ input, select, textarea {
 			}
 
 	}
-
-/* Ajustement Hero - Alignement à gauche */
-#header .inner {
-    text-align: left !important;
-    max-width: 800px;
-    margin: 0 auto;
-}
-
-#header .inner .avatar {
-    margin: 0 0 1.5em 0 !important;
-}
-
-#header h1, #header p {
-    text-align: left !important;
-}
